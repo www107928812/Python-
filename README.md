@@ -20,15 +20,20 @@
 - **如果有个人不爱你，那么这个人不是我**
 ## 代码引用
 'Hello world'
-## 多段代码引用
-'''
-a=input("What's your name?")  
-b=input("How old are you?")  
-print("You are "+a+" aged"+b)
-'''
+## 多段代码引用 
+```  
+a=input("What's your name?")    
+b=input("How old are you?")    
+print("You are "+a+" aged"+b)  
+```
 ## 表格
-| Roomates| Age|
-|---------|:--:|
-| XRM     | 18 |
-| LF      | 19 |
-| DQY     | 18 |
+Roomates|Age
+--------|--
+XRM| 18
+LF| 19
+DQY| 18
+## 引用
+> 念念不忘，必有回响
+## 任务清单
+- [x] 完成项
+- [ ] 非完成项
